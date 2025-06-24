@@ -4,22 +4,15 @@
 
 ###
 
-<table style="border-collapse: collapse; border: none;" cellpadding="0" cellspacing="0" border="0" width="100%">
-  <tr>
-    <td valign="top" width="70%" style="border: none; padding: 0; margin: 0;">
-      <p style="margin: 0;">
-        💻 I'm a Higher Technician in Web Application Development, driven by the challenge of transforming real-life needs into effective and user-friendly digital solutions.<br><br>
-        🛠️ Currently focused on full stack development using Laravel, combining backend logic, API design, and modern frontend interfaces to build practical and scalable web applications.<br><br>
-        📖 During my dual training and internship at THB Hotels, I worked on real-world projects like educational platforms and internal management tools. I took on team leader responsibilities, organizing tasks, reviewing code, coordinating progress, and presenting results in meetings — all while strengthening my collaboration, planning, and communication skills.<br><br>
-        📫 Reach me at: aguiberteaufranco@gmail.com
-      </p>
-    </td>
-    <td valign="middle" width="30%" style="border: none; padding: 0; margin: 0;">
-      <img src="./assets/program 1.gif" height="180" alt="program gif" />
-    </td>
-  </tr>
-</table>
-
+<div style="display: flex; align-items: center; max-width: 900px; gap: 20px;">
+  <p style="flex: 1; margin: 0;">
+    💻 I'm a Higher Technician in Web Application Development, driven by the challenge of transforming real-life needs into effective and user-friendly digital solutions.<br><br>
+    🛠️ Currently focused on full stack development using Laravel, combining backend logic, API design, and modern frontend interfaces to build practical and scalable web applications.<br><br>
+    📖 During my dual training and internship at THB Hotels, I worked on real-world projects like educational platforms and internal management tools. I took on team leader responsibilities, organizing tasks, reviewing code, coordinating progress, and presenting results in meetings — all while strengthening my collaboration, planning, and communication skills.<br><br>
+    📫 Reach me at: aguiberteaufranco@gmail.com
+  </p>
+  <img src="./assets/program 1.gif" height="180" alt="program gif" />
+</div>
 
 
 ###
