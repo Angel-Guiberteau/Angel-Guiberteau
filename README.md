@@ -3,7 +3,7 @@
 <img src="./assets/program 1.gif" align="right" height="150" alt="program gif" style="margin-top: 20px;" />
 
 
-<p style="font-size: 2em; font-weight: bold; margin-bottom: 0.5em;">My Title</p>
+# **Hi 👋, I'm Ángel Guiberteau 💫**
 
 
 ###
