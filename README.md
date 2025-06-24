@@ -4,7 +4,6 @@
 <h1 align="center">Hi 👋, I'm Ángel Guiberteau 💫</h1>
 
 
-
 ###
 
 <p style="flex: 1; margin: 0;">
@@ -13,8 +12,6 @@
   📖 During my dual training and internship at THB Hotels, I worked on real-world projects like educational platforms and internal management tools. I took on team leader responsibilities, organizing tasks, reviewing code, coordinating progress, and presenting results in meetings — all while strengthening my collaboration, planning, and communication skills.<br><br>
   📫 Reach me at: aguiberteaufranco@gmail.com
 </p>
-
-<img src="./assets/program 1.gif" align="right" height="150" alt="program gif" style="margin-top: 20px;" />
 
 ###
 
