@@ -6,7 +6,7 @@
 
 <table width="100%">
   <tr>
-    <td valign="top" style="max-width: 700px; padding-right: 20px;">
+    <td valign="top" width="70%">
       <p>
         💻 I'm a Higher Technician in Web Application Development, driven by the challenge of transforming real-life needs into effective and user-friendly digital solutions.<br><br>
         🛠️ Currently focused on full stack development using Laravel, combining backend logic, API design, and modern frontend interfaces to build practical and scalable web applications.<br><br>
@@ -14,8 +14,8 @@
         📫 Reach me at: aguiberteaufranco@gmail.com
       </p>
     </td>
-    <td valign="top" width="200">
-      <img src="./assets/program 1.gif" height="150" alt="program gif" />
+    <td valign="top" width="30%">
+      <img src="./assets/program 1.gif" height="180" alt="program gif" />
     </td>
   </tr>
 </table>
