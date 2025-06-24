@@ -16,7 +16,10 @@
 
 ###
 
-<p align="left">Check my personal portfolio to see more about me: <br>🔗</p>
+<p align="left">
+  Check my personal portfolio to see more about me: <br>
+  🔗 <a href="https://angel-guiberteau.github.io/Portfolio-AngelGF/" target="_blank">Visit my portfolio</a>
+</p>
 
 ###
 
@@ -106,14 +109,6 @@
 ###
 
 <h2 align="left">📈 GitHub Stats</h2>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Angel-Guiberteau/Angel-Guiberteau/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Angel-Guiberteau/Angel-Guiberteau/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Angel-Guiberteau/Angel-Guiberteau/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
