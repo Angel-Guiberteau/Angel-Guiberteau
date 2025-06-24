@@ -53,7 +53,7 @@
 |                                                          |                                                         |                                                       | <img src="https://img.shields.io/badge/-Jira-0A0FFF?logo=jira&logoColor=white&style=for-the-badge&label=" alt="Jira" />         |
 |                                                          |                                                         |                                                       | <img src="https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=for-the-badge&label=" alt="Notion" />   |
 |                                                          |                                                         |                                                       | <img src="https://img.shields.io/badge/-Trello-026AA7?logo=trello&logoColor=white&style=for-the-badge&label=" alt="Trello" />   |
-|                                                          |                                                         |                                                       
+
 
 </div>
 
