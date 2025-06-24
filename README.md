@@ -4,7 +4,7 @@
 
 ###
 
-<img align="right" height="200" src="https://i.gifer.com/Ao.gif"  />
+<img align="right" height="200" src="./assets/program 1.gif" />
 
 ###
 
@@ -17,8 +17,7 @@
 ###
 
 <p align="left">
-  Check my personal portfolio to see more about me: <br>
-  🔗 <a href="https://angel-guiberteau.github.io/Portfolio-AngelGF/" target="_blank">Visit my portfolio</a>
+  🔗 <strong><a href="https://angel-guiberteau.github.io/Portfolio-AngelGF/" target="_blank">Visit my personal portfolio</a></strong> to see more about me and my projects.
 </p>
 
 ###
@@ -113,8 +112,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Angel-Guiberteau&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Angel-Guiberteau&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <p><strong>My Activity</strong></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Angel-Guiberteau&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" />
+  
+  <br><br>
+
+  <p><strong>Top Languages</strong></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Angel-Guiberteau&layout=compact&theme=dracula&langs_count=6" height="150" />
 </div>
 
 ###
