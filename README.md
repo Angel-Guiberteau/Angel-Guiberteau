@@ -3,15 +3,15 @@
 </p>
 
 <p align="center">
-  <em>Higher Technician in Web Application Development passionate about turning real needs into user-friendly digital solutions.</em>
+  <em> I'm a Higher Technician in Web Application Development, driven by the challenge of transforming real-life needs into effective and user-friendly digital solutions.</em>
 </p>
 
 <p align="left">
-  🛠️ <b>Currently focused on full stack development with Laravel</b> — backend logic, API design, and modern frontend interfaces to build scalable web apps.
+  🛠️ Currently focused on <b>full stack</b> development using Laravel, combining frontend logic, API design, and modern frontend interfaces to build practical and scalable web applications.
 </p>
 
 <p align="left">
-  📖 During my dual training & internship at <b>THB Hotels</b>, I led teams, coordinated tasks, reviewed code, and presented results, enhancing collaboration and communication skills.
+  📖 During my dual training and internship at <b>THB Hotels</b>, I worked on real-world projects like educational platforms and internal management tools. I took on team leader responsibilities, organizing tasks, reviewing code, coordinating progress, and presenting results in meetings — all while strengthening my collaboration, planning, and communication skills.
 </p>
 
 <p align="left">
