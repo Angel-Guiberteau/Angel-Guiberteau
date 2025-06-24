@@ -4,11 +4,6 @@
 
 ###
 
-<img align="right" height="200" src="https://i.gifer.com/Ao.gif"  />
-
-
-###
-
 <p style="flex: 1; margin: 0;">
   💻 I'm a Higher Technician in Web Application Development, driven by the challenge of transforming real-life needs into effective and user-friendly digital solutions.<br><br>
   🛠️ Currently focused on full stack development using Laravel, combining backend logic, API design, and modern frontend interfaces to build practical and scalable web applications.<br><br>
@@ -115,10 +110,6 @@
 ###
 
 <h2 align="left">📈 GitHub Stats</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/Angel-Guiberteau /Angel-Guiberteau /output/snake.svg" alt="Snake animation" />
 
 ###
 
