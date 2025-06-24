@@ -2,11 +2,24 @@
 
 <h1 align="center">Hi 👋, I'm Ángel Guiberteau 💫</h1>
 
-<img align="right" height="150" src="./assets/program 1.gif" />
-
 ###
 
-<p align="left" style="max-width: 700px;">💻 I'm a Higher Technician in Web Application Development, driven by the challenge of transforming real-life needs into effective and user-friendly digital solutions.<br><br>🛠️ Currently focused on full stack development using Laravel, combining backend logic, API design, and modern frontend interfaces to build practical and scalable web applications.<br><br>📖 During my dual training and internship at THB Hotels, I worked on real-world projects like educational platforms and internal management tools. I took on team leader responsibilities, organizing tasks, reviewing code, coordinating progress, and presenting results in meetings — all while strengthening my collaboration, planning, and communication skills.<br><br>📫 Reach me at: aguiberteaufranco@gmail.com</p>
+<table width="100%">
+  <tr>
+    <td valign="top" style="max-width: 700px; padding-right: 20px;">
+      <p>
+        💻 I'm a Higher Technician in Web Application Development, driven by the challenge of transforming real-life needs into effective and user-friendly digital solutions.<br><br>
+        🛠️ Currently focused on full stack development using Laravel, combining backend logic, API design, and modern frontend interfaces to build practical and scalable web applications.<br><br>
+        📖 During my dual training and internship at THB Hotels, I worked on real-world projects like educational platforms and internal management tools. I took on team leader responsibilities, organizing tasks, reviewing code, coordinating progress, and presenting results in meetings — all while strengthening my collaboration, planning, and communication skills.<br><br>
+        📫 Reach me at: aguiberteaufranco@gmail.com
+      </p>
+    </td>
+    <td valign="top" width="200">
+      <img src="./assets/program 1.gif" height="150" alt="program gif" />
+    </td>
+  </tr>
+</table>
+
 
 ###
 
