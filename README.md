@@ -1,10 +1,15 @@
 <br clear="both">
 
-<h1 align="center">Hi 👋, I'm Ángel Guiberteau 💫</h1>
-
-###
-
-<img align="right" height="200" src="./assets/program 1.gif" />
+<table width="100%">
+  <tr>
+    <td align="left" valign="middle">
+      <h1>Hi 👋, I'm Ángel Guiberteau 💫</h1>
+    </td>
+    <td align="right" valign="middle" width="200">
+      <img src="./assets/program 1.gif" height="200" alt="program gif" />
+    </td>
+  </tr>
+</table>
 
 ###
 
@@ -17,7 +22,7 @@
 ###
 
 <p align="left">
-  **Check my personal portfolio to see more about me:** <br>
+  <b>Check my personal portfolio to see more about me:</b> <br>
   🔗 <a href="https://angel-guiberteau.github.io/Portfolio-AngelGF/" target="_blank"><b>Visit my portfolio</b></a>
 </p>
 
