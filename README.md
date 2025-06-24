@@ -1,8 +1,8 @@
 <br clear="both">
 
 <h1 align="center">Hi 👋, I'm Ángel Guiberteau 💫</h1>
-<img src="./assets/program 1.gif" height="180" style="flex-shrink: 0;" alt="program gif" />
 
+<img src="./assets/program 1.gif" align="right" height="200" alt="program gif" />
 
 ###
 
