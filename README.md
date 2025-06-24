@@ -1,7 +1,10 @@
 <br clear="both">
 
-
 <h1 align="center">Hi 👋, I'm Ángel Guiberteau 💫</h1>
+
+###
+
+<img align="right" height="200" src="https://i.gifer.com/Ao.gif"  />
 
 
 ###
@@ -112,6 +115,10 @@
 ###
 
 <h2 align="left">📈 GitHub Stats</h2>
+
+###
+
+<img src="https://raw.githubusercontent.com/Angel-Guiberteau /Angel-Guiberteau /output/snake.svg" alt="Snake animation" />
 
 ###
 
