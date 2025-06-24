@@ -1,24 +1,83 @@
-# 💫 About Me:
-💻 I'm a Higher Technician in Web Application Development, driven by the challenge of transforming real-life needs into effective and user-friendly digital solutions.<br><br>🛠️ Currently focused on full stack development using Laravel, combining backend logic, API design, and modern frontend interfaces to build practical and scalable web applications.<br><br>📖 During my dual training and internship at THB Hotels, I worked on real-world projects like educational platforms and internal management tools. I took on team leader responsibilities, organizing tasks, reviewing code, coordinating progress, and presenting results in meetings — all while strengthening my collaboration, planning, and communication skills.<br><br>📫 Reach me at: aguiberteaufranco@gmail.com
+# Hi 👋, I'm Ángel Guiberteau 💫
+
+💻 Higher Technician in Web Application Development passionate about turning real needs into user-friendly digital solutions.
+
+🛠️ Currently focused on full stack development with Laravel — backend logic, API design, and modern frontend interfaces to build scalable web apps.
+
+📖 During my dual training & internship at THB Hotels, I led teams, coordinated tasks, reviewed code, and presented results, enhancing collaboration and communication skills.
+
+📫 Reach me at: [aguiberteaufranco@gmail.com](mailto:aguiberteaufranco@gmail.com)
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/angeel.gf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/%C3%A1ngel-guiberteau-franco-84a827311/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aguiberteaufranco@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Angel-Guiberteau&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Angel-Guiberteau&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-Guiberteau&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🌐 Connect with me:
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Angel-Guiberteau&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white&style=flat-square)](https://instagram.com/angeel.gf)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/angel-guiberteau-franco-84a827311)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:aguiberteaufranco@gmail.com)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Angel-Guiberteau&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💻 Tech Stack
+
+### Frontend  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?logo=bootstrap&logoColor=white&style=flat-square)  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E&style=flat-square)  
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=flat-square)  
+![Astro](https://img.shields.io/badge/Astro-2C2052?logo=astro&logoColor=white&style=flat-square)  
+
+### Backend  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square)  
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square)  
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat-square)  
+![Apache](https://img.shields.io/badge/Apache-D42029?logo=apache&logoColor=white&style=flat-square)  
+![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white&style=flat-square)  
+
+### Database Management  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)  
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat-square)  
+
+### Tools & Others  
+![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white&style=flat-square)  
+![GitHub](https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white&style=flat-square)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)  
+![Adobe Acrobat](https://img.shields.io/badge/Adobe_Acrobat_EC1C24?logo=adobeacrobatreader&logoColor=white&style=flat-square)  
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=flat-square)  
+![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=flat-square)  
+![GIMP](https://img.shields.io/badge/GIMP-657D8B?logo=gimp&logoColor=white&style=flat-square)  
+![Jira](https://img.shields.io/badge/Jira-0A0FFF?logo=jira&logoColor=white&style=flat-square)  
+![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=flat-square)  
+![Trello](https://img.shields.io/badge/Trello-026AA7?logo=trello&logoColor=white&style=flat-square)  
+![Steam](https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white&style=flat-square)  
+
+
+---
+
+## 📊 GitHub Stats
+
+![Ángel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Angel-Guiberteau&theme=dark&include_all_commits=false&count_private=false)  
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=Angel-Guiberteau&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-Guiberteau&theme=dark&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies  
+![Trophies](https://github-profile-trophy.vercel.app/?username=Angel-Guiberteau&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
+### ✍️ Random Dev Quote  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+### 🔝 Top Contributed Repos  
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=Angel-Guiberteau&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
