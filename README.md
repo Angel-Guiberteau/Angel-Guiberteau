@@ -14,6 +14,8 @@
   📫 Reach me at: aguiberteaufranco@gmail.com
 </p>
 
+<img src="./assets/program 1.gif" align="right" height="150" alt="program gif" style="margin-top: 20px;" />
+
 ###
 
 <h2 align="left">🌐 Portfolio & Social Links</h2>
