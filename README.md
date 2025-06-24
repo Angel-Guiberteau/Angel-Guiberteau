@@ -1,20 +1,20 @@
 <p align="center">
-  <h1>Hi 👋, I'm <b>Ángel Guiberteau</b> 💫</h1>
+  <h1 align="center">Hi 👋, I'm <b>Ángel Guiberteau</b> 💫</h1>
 </p>
 
 <p align="center">
   <em>Higher Technician in Web Application Development passionate about turning real needs into user-friendly digital solutions.</em>
 </p>
 
-<p align="center">
+<p align="left">
   🛠️ <b>Currently focused on full stack development with Laravel</b> — backend logic, API design, and modern frontend interfaces to build scalable web apps.
 </p>
 
-<p align="center">
+<p align="left">
   📖 During my dual training & internship at <b>THB Hotels</b>, I led teams, coordinated tasks, reviewed code, and presented results, enhancing collaboration and communication skills.
 </p>
 
-<p align="center">
+<p align="left">
   📫 Reach me at: <a href="mailto:aguiberteaufranco@gmail.com"><b>aguiberteaufranco@gmail.com</b></a>
 </p>
 
