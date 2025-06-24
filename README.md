@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  📖 During my dual training and internship at <b>THB Hotels</b>, I worked on real-world projects like educational platforms and internal management tools. I took on team leader responsibilities, organizing tasks, reviewing code, coordinating progress, and presenting results in meetings — all while strengthening my collaboration, planning, and communication skills.
+  📖 During my dual training and internship at <b>THB Hotels</b>, I worked on real-world projects like educational platforms and internal management tools. I took on team leader responsibilities, organizing tasks, reviewing code, coordinating progress, and presenting results in meetings all while strengthening my collaboration, planning, and communication skills.
 </p>
 
 <p align="left">
