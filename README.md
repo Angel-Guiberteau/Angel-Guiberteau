@@ -4,7 +4,7 @@
 
 ###
 
-<table width="100%">
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
   <tr>
     <td valign="top" width="70%">
       <p>
@@ -14,7 +14,7 @@
         📫 Reach me at: aguiberteaufranco@gmail.com
       </p>
     </td>
-    <td valign="top" width="30%">
+    <td valign="middle" width="30%">
       <img src="./assets/program 1.gif" height="180" alt="program gif" />
     </td>
   </tr>
