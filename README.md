@@ -1,15 +1,8 @@
 <br clear="both">
 
-<table width="100%">
-  <tr>
-    <td align="left" valign="middle">
-      <h1>Hi 👋, I'm Ángel Guiberteau 💫</h1>
-    </td>
-    <td align="right" valign="middle" width="200">
-      <img src="./assets/program 1.gif" height="200" alt="program gif" />
-    </td>
-  </tr>
-</table>
+<h1 align="center">Hi 👋, I'm Ángel Guiberteau 💫</h1>
+
+<img align="right" height="200" src="./assets/program 1.gif" />
 
 ###
 
