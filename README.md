@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img src="./assets/program 1.gif" align="right" height="200" alt="program gif" style="margin-top: 20px;" />
+<img src="./assets/program 1.gif" align="right" height="150" alt="program gif" style="margin-top: 20px;" />
 
 
 <h1 align="center">Hi 👋, I'm Ángel Guiberteau 💫</h1>
