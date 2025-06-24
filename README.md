@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🛠️ Currently focused on <b>full stack</b> development using Laravel, combining frontend logic, API design, and modern frontend interfaces to build practical and scalable web applications.
+  🛠️ Currently focused on <em><b>full stack</b></em> development using Laravel, combining frontend frameworks, API design, and modern frontend interfaces to build practical and scalable web applications.
 </p>
 
 <p align="left">
@@ -53,7 +53,7 @@
 |                                                          |                                                         |                                                       | <img src="https://img.shields.io/badge/-Jira-0A0FFF?logo=jira&logoColor=white&style=for-the-badge&label=" alt="Jira" />         |
 |                                                          |                                                         |                                                       | <img src="https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=for-the-badge&label=" alt="Notion" />   |
 |                                                          |                                                         |                                                       | <img src="https://img.shields.io/badge/-Trello-026AA7?logo=trello&logoColor=white&style=for-the-badge&label=" alt="Trello" />   |
-|                                                          |                                                         |                                                       | <img src="https://img.shields.io/badge/-Steam-000000?logo=steam&logoColor=white&style=for-the-badge&label=" alt="Steam" />       |
+|                                                          |                                                         |                                                       
 
 </div>
 
