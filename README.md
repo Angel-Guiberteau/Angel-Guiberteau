@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ángel Guiberteau 💫</h1>
 
-<img align="right" height="300" src="./assets/program 1.gif" />
+<img align="right" height="150" src="./assets/program 1.gif" />
 
 ###
 
