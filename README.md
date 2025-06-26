@@ -6,93 +6,90 @@
   <em> I'm a Higher Technician in Web Application Development, driven by the challenge of transforming real-life needs into effective and user-friendly digital solutions.</em>
 </p>
 
-<p align="left">
-  🛠️ Currently focused on <em><b>full stack</b></em> development using Laravel, combining frontend frameworks, API design, and modern frontend interfaces to build practical and scalable web applications.
-</p>
+🛠️ Currently focused on full stack development using Laravel, combining frontend frameworks, API design, and modern frontend interfaces to build practical and scalable web applications.
 
-<p align="left">
-  📖 During my dual training and internship at <b>THB Hotels</b>, I worked on real-world projects like educational platforms and internal management tools. I took on team leader responsibilities, organizing tasks, reviewing code, coordinating progress, and presenting results in meetings all while strengthening my collaboration, planning, and communication skills.
-</p>
+📖 During my dual training and internship at THB Hotels, I worked on real-world projects like educational platforms and internal management tools. I took on team leader responsibilities, organizing tasks, reviewing code, coordinating progress, and presenting results in meetings all while strengthening my collaboration, planning, and communication skills.
 
-<p align="left">
-  📫 Reach me at: <a href="mailto:aguiberteaufranco@gmail.com"><b>aguiberteaufranco@gmail.com</b></a>
-</p>
-
----
+📫 Reach me at: <b>aguiberteaufranco@gmail.com</b></a>
 
 ## 🌐 Connect with me:
-
-<p align="center">
-  <a href="https://instagram.com/angeel.gf" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white&style=for-the-badge&label=" alt="Instagram" />
-  </a>  
-  <a href="https://linkedin.com/in/angel-guiberteau-franco-84a827311" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&label=" alt="LinkedIn" />
-  </a>  
-  <a href="mailto:aguiberteaufranco@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge&label=" alt="Email" />
-  </a>
-</p>
-
----
+<p><a href="https://www.linkedin.com/in/%C3%A1ngel-guiberteau-franco-84a827311/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.instagram.com/angeel.gf/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
 
 ## 💻 Tech Stack
 
-<div align="center">
+<p align="left">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="laravel" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5KhCojo9MAD9u7-vbHjYYFzD69By9d-PWcw&s" alt="astro" width="40" height="40"/>&nbsp;
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2945023.png?f=webp" alt="jquery" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
+<img src="https://img.icons8.com/?size=512&id=40670&format=png" alt="c" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
+<img src="https://img.icons8.com/color/512/microsoft-sql-server.png" alt="sqlserve" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;
+<img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>&nbsp;
+<img src="https://cdn.pixabay.com/photo/2022/06/04/19/55/gimp-wilber-icon-7242730_640.png" alt="gimp" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" alt="notion" width="40" height="40"/>&nbsp;
+<img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/vscode.png" alt="visual" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/>&nbsp;
+</p>
 
-| **Frontend**                                              | **Backend**                                              | **Database**                                           | **Tools & Others**                                    |
-| -------------------------------------------------------- | ------------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------- |
-| <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge&label=" alt="HTML5" />       | <img src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge&label=" alt="Laravel" />  | <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge&label=" alt="MySQL" />      | <img src="https://img.shields.io/badge/-Git-F05033?logo=git&logoColor=white&style=for-the-badge&label=" alt="Git" />         |
-| <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge&label=" alt="CSS3" />           | <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge&label=" alt="PHP" />           | <img src="https://img.shields.io/badge/-SQLServer-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge&label=" alt="SQL Server" /> | <img src="https://img.shields.io/badge/-GitHub-121011?logo=github&logoColor=white&style=for-the-badge&label=" alt="GitHub" />   |
-| <img src="https://img.shields.io/badge/-Bootstrap-8511FA?logo=bootstrap&logoColor=white&style=for-the-badge&label=" alt="Bootstrap" /> | <img src="https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge&label=" alt="Java" />       |                                                       | <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge&label=" alt="Postman" /> |
-| <img src="https://img.shields.io/badge/-JavaScript-323330?logo=javascript&logoColor=F7DF1E&style=for-the-badge&label=" alt="JavaScript" /> | <img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=for-the-badge&label=" alt="C" />                 |                                                       | <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge&label=" alt="Figma" />     |
-| <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge&label=" alt="jQuery" />      | <img src="https://img.shields.io/badge/-Apache-D42029?logo=apache&logoColor=white&style=for-the-badge&label=" alt="Apache" /> |                                                       | <img src="https://img.shields.io/badge/-Adobe_Acrobat-EC1C24?logo=adobeacrobatreader&logoColor=white&style=for-the-badge&label=" alt="Adobe Acrobat" /> |
-| <img src="https://img.shields.io/badge/-Astro-2C2052?logo=astro&logoColor=white&style=for-the-badge&label=" alt="Astro" />          | <img src="https://img.shields.io/badge/-Bash-121011?logo=gnu-bash&logoColor=white&style=for-the-badge&label=" alt="Bash" />    |                                                       | <img src="https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge&label=" alt="Adobe Photoshop" /> |
-|                                                          |                                                         |                                                       | <img src="https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge&label=" alt="Canva" />     |
-|                                                          |                                                         |                                                       | <img src="https://img.shields.io/badge/-GIMP-657D8B?logo=gimp&logoColor=white&style=for-the-badge&label=" alt="GIMP" />         |
-|                                                          |                                                         |                                                       | <img src="https://img.shields.io/badge/-Jira-0A0FFF?logo=jira&logoColor=white&style=for-the-badge&label=" alt="Jira" />         |
-|                                                          |                                                         |                                                       | <img src="https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=for-the-badge&label=" alt="Notion" />   |
-|                                                          |                                                         |                                                       | <img src="https://img.shields.io/badge/-Trello-026AA7?logo=trello&logoColor=white&style=for-the-badge&label=" alt="Trello" />   |
+## 👨🏻‍💻 Projects
 
+### 💰 Rivo
 
-</div>
+A personal finance manager that helps users track income, expenses, and savings.
+
+-> Tech stack: Laravel, MySQL, Bootstrap, JavaScript 
+
+👥 Served as team leader during the project.
+
+[View Project](https://github.com/Angel-Guiberteau/TFG-Rivo)
+
+---
+
+### 📚 Internal Course Manager
+
+A private web platform built for THB Hotels to manage internal training programs and employee development.
+
+-> Tech stack: Laravel, JavaScript, MySQL, dynamic form generation, custom validations
+
+👥 Served as team leader during part of the project (rotating leadership model)
+
+🛡️ Private project under NDA (no public access)
+
+---
+
+### 🏛️ Democratic City
+
+A browser-based multiplayer game where players vote on city decisions that impact four key stats: health, economy, education, and security. The goal is to keep the city alive as long as possible through collective strategy.
+
+-> Tech stack: JavaScript (Fetch API), HTML/CSS, modular structure, JSON
+
+👨‍💼 Led the development team during a two-week sprint as part of a class project.
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Angel-Guiberteau&theme=dark&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Angel-Guiberteau&theme=dark" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-Guiberteau&theme=dark&layout=compact" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Angel-Guiberteau&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-Guiberteau&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
 
-## 🏆 GitHub Trophies  
+## GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Angel-Guiberteau&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=Angel-Guiberteau" alt="trophy" />
 
----
+## GitHub Activity Graph
 
-### ✍️ Random Dev Quote  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Angel-Guiberteau&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph" />
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-</p>
-
----
-
-### 🔝 Top Contributed Repos  
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Angel-Guiberteau&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
