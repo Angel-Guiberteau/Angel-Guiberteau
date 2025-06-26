@@ -112,6 +112,6 @@ A browser-based multiplayer game where players vote on city decisions that impac
 <h2 align="left">✍️ Random Dev Quote</h2>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" height="300" alt="quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" height="200" alt="quote" />
 </div>
 
