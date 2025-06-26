@@ -31,7 +31,7 @@
 </div>
 
 
-## 💻 Tech Stack
+<h2 align="left"> 💻 Tech Stack</h2>
 
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" alt="laravel" width="40" height="40"/>&nbsp;
@@ -59,7 +59,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/>&nbsp;
 </p>
 
-## 👨🏻‍💻 Projects
+<h2 align="left"> 👨🏻‍💻 Projects</h2>
 
 ### 💰 Rivo
 
@@ -95,17 +95,21 @@ A browser-based multiplayer game where players vote on city decisions that impac
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="left">📊 GitHub Stats</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Angel-Guiberteau&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-Guiberteau&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
 
-## GitHub Trophies
+<h2 align="left"> GitHub Trophies</h2>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Angel-Guiberteau&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophy" />
 
-## GitHub Activity Graph
+<h2 align="left"> GitHub Activity Graph</h2>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Angel-Guiberteau&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph" />
+
+<h2 align="left">✍️ Random Dev Quote</h2>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="cuote" />
 
