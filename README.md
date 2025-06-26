@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Check my personal portfolio to see more about me: <br>🔗</p>
+<p align="left">Check my personal portfolio to see more about me: <br>🔗<b><a href="https://angel-guiberteau.github.io/Portfolio-AngelGF/">here</a></b></p>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/%C3%A1ngel-guiberteau-franco-84a827311/" target="_blank">
