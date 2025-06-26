@@ -61,7 +61,7 @@
 
 A personal finance manager that helps users track income, expenses, and savings.
 
--> Tech stack: Laravel, MySQL, Bootstrap, JavaScript 
+-> <em>Tech stack: Laravel, MySQL, Bootstrap, JavaScript </em>
 
 👥 Served as team leader during the project.
 
@@ -73,7 +73,7 @@ A personal finance manager that helps users track income, expenses, and savings.
 
 A private web platform built for THB Hotels to manage internal training programs and employee development.
 
--> Tech stack: Laravel, JavaScript, MySQL, dynamic form generation, custom validations
+-> <em>Tech stack: Laravel, JavaScript, MySQL, dynamic form generation, custom validations</em>
 
 👥 Served as team leader during part of the project (rotating leadership model)
 
@@ -85,7 +85,7 @@ A private web platform built for THB Hotels to manage internal training programs
 
 A browser-based multiplayer game where players vote on city decisions that impact four key stats: health, economy, education, and security. The goal is to keep the city alive as long as possible through collective strategy.
 
--> Tech stack: JavaScript (Fetch API), HTML/CSS, modular structure, JSON
+-> <em>Tech stack: JavaScript (Fetch API), HTML/CSS, modular structure, JSON</em>
 
 👨‍💼 Led the development team during a two-week sprint as part of a class project.
 
