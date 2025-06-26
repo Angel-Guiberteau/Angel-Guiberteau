@@ -93,6 +93,8 @@ A browser-based multiplayer game where players vote on city decisions that impac
 
 👨‍💼 Led the development team during a two-week sprint as part of a class project.
 
+[View Project](https://github.com/Angel-Guiberteau/DemocraticCity)
+
 ---
 
 <h2 align="left">📊 GitHub Stats</h2>
