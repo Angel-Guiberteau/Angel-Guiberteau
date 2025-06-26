@@ -18,8 +18,6 @@
 
 <p align="left">Check my personal portfolio to see more about me: <br>🔗</p>
 
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/%C3%A1ngel-guiberteau-franco-84a827311/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -28,6 +26,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
+
 ## 💻 Tech Stack
 
 <p align="left">
