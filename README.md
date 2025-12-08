@@ -6,15 +6,20 @@
   <em> I'm a Higher Technician in Web Application Development, driven by the challenge of transforming real-life needs into effective and user-friendly digital solutions.</em>
 </p>
 
-🛠️ Currently focused on full stack development using Laravel, combining frontend frameworks, API design, and modern frontend interfaces to build practical and scalable web applications.
+🛠️ Currently working as **Frontend Lead & Full Stack Developer at THB Hotels**, building scalable internal tools, unified UI systems, and modern web interfaces using **Laravel + JavaScript**.
 
-📖 During my dual training and internship at THB Hotels, I worked on real-world projects like educational platforms and internal management tools. I took on team leader responsibilities, organizing tasks, reviewing code, coordinating progress, and presenting results in meetings all while strengthening my collaboration, planning, and communication skills.
+🤖 Expanding my expertise through a **specialization in Artificial Intelligence & Big Data**, learning advanced machine learning techniques, Python, TensorFlow and cloud-based data processing.
+
+🧩 Also working as a **Full Stack Freelance Developer**, designing and developing custom solutions  
+for businesses — including the new project **FC Klassic Cars**, a high-end automotive showcase and management platform.
+
+📖 During my dual training and internship at THB Hotels, I worked on real-world projects like educational platforms and internal management tools. I took on team leader responsibilities, organizing tasks, reviewing code, coordinating progress, and presenting results in meetings — strengthening my collaboration, planning, and communication skills.
 
 📫 Reach me at: <b>aguiberteaufranco@gmail.com</b></a>
 
-<h2 align="left">🌐 Portfolio & Social Links</h2>
+---
 
-###
+<h2 align="left">🌐 Portfolio & Social Links</h2>
 
 <p align="left">Check my personal portfolio to see more about me: <br>🔗<b><a href="https://angel-guiberteau.github.io/Portfolio-AngelGF/" target="_blank">here</a></b></p>
 
@@ -30,6 +35,7 @@
   </a>
 </div>
 
+---
 
 <h2 align="left"> 💻 Tech Stack</h2>
 
@@ -59,61 +65,55 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/>&nbsp;
 </p>
 
+---
+
 <h2 align="left"> 👨🏻‍💻 Projects</h2>
 
+### 🚗 FC Klassic Cars *(Freelance – Ongoing)*  
+A high-end automotive platform designed to showcase premium vehicles, manage inventory, and optimize client conversions.  
+-> <em>Tech stack: Laravel, UI/UX design, SEO, custom CMS, dynamic galleries, performance optimization</em>
+
+---
+
 ### 💰 Rivo
-
-A personal finance manager that helps users track income, expenses, and savings.
-
--> <em>Tech stack: Laravel, MySQL, Bootstrap, JavaScript </em>
-
-👥 Served as team leader during the project.
-
+A personal finance manager that helps users track income, expenses, and savings.  
+-> <em>Tech stack: Laravel, MySQL, Bootstrap, JavaScript </em>  
+👥 Served as team leader during the project.  
 [View Project](https://github.com/Angel-Guiberteau/TFG-Rivo)
 
 ---
 
-### 📚 Internal Course Manager
-
-A private web platform built for THB Hotels to manage internal training programs and employee development.
-
--> <em>Tech stack: Laravel, JavaScript, MySQL, dynamic form generation, custom validations</em>
-
-👥 Served as team leader during part of the project (rotating leadership model)
-
+### 📚 Internal Course Manager (THB Hotels)
+A private web platform built for THB Hotels to manage internal training programs and employee development.  
+-> <em>Tech stack: Laravel, JavaScript, MySQL, dynamic form generation, custom validations</em>  
 🛡️ Private project under NDA (no public access)
 
 ---
 
 ### 🏛️ Democratic City
-
-A browser-based multiplayer game where players vote on city decisions that impact four key stats: health, economy, education, and security. The goal is to keep the city alive as long as possible through collective strategy.
-
--> <em>Tech stack: JavaScript (Fetch API), HTML/CSS, modular structure, JSON</em>
-
-👨‍💼 Led the development team during a two-week sprint as part of a class project.
-
+A browser-based multiplayer game where players vote on city decisions that impact four key stats: health, economy, education, and security.  
+-> <em>Tech stack: JavaScript, HTML/CSS, modular structure, JSON</em>  
+👨‍💼 Led the development team during a two-week sprint.  
 [View Project](https://github.com/Angel-Guiberteau/DemocraticCity)
 
 ---
 
 <h2 align="left">📊 GitHub Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Angel-Guiberteau&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub İstatistikleri" />
+<img src="https://github-readme-stats.vercel.app/api?username=Angel-Guiberteau&show_icons=true&count_private=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-Guiberteau&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-Guiberteau&layout=compact&theme=tokyonight" />
 
 <h2 align="left">🏆 GitHub Trophies</h2>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Angel-Guiberteau&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=Angel-Guiberteau&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 
 <h2 align="left">📊 GitHub Activity Graph</h2>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Angel-Guiberteau&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Angel-Guiberteau&radius=16&theme=dracula&area=true&order=5" height="300" />
 
 <h2 align="left">✍️ Random Dev Quote</h2>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" height="200" alt="quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" height="200" />
 </div>
-
