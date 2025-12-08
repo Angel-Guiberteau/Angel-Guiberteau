@@ -69,9 +69,11 @@ for businesses — including the new project **FC Klassic Cars**, a high-end aut
 
 <h2 align="left"> 👨🏻‍💻 Projects</h2>
 
-### 🚗 FC Klassic Cars *(Freelance – Ongoing)*  
+### 🚗 FC Klassic Cars  
 A high-end automotive platform designed to showcase premium vehicles, manage inventory, and optimize client conversions.  
 -> <em>Tech stack: Laravel, UI/UX design, SEO, custom CMS, dynamic galleries, performance optimization</em>
+
+🌐 <a href="https://fcklassic.com/" target="_blank"><b>Visit Website</b></a>
 
 ---
 
@@ -97,20 +99,6 @@ A browser-based multiplayer game where players vote on city decisions that impac
 [View Project](https://github.com/Angel-Guiberteau/DemocraticCity)
 
 ---
-
-<h2 align="left">📊 GitHub Stats</h2>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Angel-Guiberteau&show_icons=true&count_private=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-Guiberteau&layout=compact&theme=tokyonight" />
-
-<h2 align="left">🏆 GitHub Trophies</h2>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Angel-Guiberteau&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-
-<h2 align="left">📊 GitHub Activity Graph</h2>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Angel-Guiberteau&radius=16&theme=dracula&area=true&order=5" height="300" />
 
 <h2 align="left">✍️ Random Dev Quote</h2>
 
