@@ -139,11 +139,12 @@ Proyecto académico en Laravel desarrollado durante mi etapa de formación dual 
 
 ## 💼 Fortalezas profesionales
 
-- Desarrollo claro y bien estructurado
-- Buen equilibrio entre **lógica, usabilidad y mantenibilidad**
-- Experiencia en **entornos colaborativos**
-- Mentalidad de producto con atención a **rendimiento y UX**
-- Aprendizaje continuo y crecimiento técnico constante
+- Perfil capaz de conectar **lógica, diseño y arquitectura** para construir productos digitales sólidos
+- Desarrollo orientado a **soluciones reales**, con foco en utilidad, calidad técnica y experiencia de usuario
+- Capacidad para trabajar con **Laravel, frontend y UI/UX** dentro de un mismo flujo de producto
+- Atención al detalle en **mantenibilidad, escalabilidad, consistencia visual y estructura de código**
+- Buen encaje en **equipos colaborativos**, aportando tanto en implementación como en mejora continua
+- Interés constante por seguir creciendo en áreas como **arquitectura, optimización, IA y sistemas orientados a datos**
 
 ---
 
