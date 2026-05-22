@@ -59,8 +59,7 @@ También participo en tareas backend —**diseño de APIs, optimización y arqui
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-ff3b30?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-1c1c1e?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=ff3b30" />
-  <img src="https://img.shields.io/badge/Composer-1c1c1e?style=for-the-badge&logo=composer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Composer-ffffff?style=for-the-badge&logo=composer&logoColor=ff3b30" />
   <img src="https://img.shields.io/badge/Eloquent-ff3b30?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-1c1c1e?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ffffff?style=for-the-badge&logo=openjdk&logoColor=ff3b30" />
@@ -71,20 +70,37 @@ También participo en tareas backend —**diseño de APIs, optimización y arqui
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-ff3b30?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-1c1c1e?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=ff3b30" />
+  <img src="https://img.shields.io/badge/Inertia-ff3b30?style=for-the-badge&logo=inertia&logoColor=white" />
   <img src="https://img.shields.io/badge/Astro-ffffff?style=for-the-badge&logo=astro&logoColor=ff3b30" />
   <img src="https://img.shields.io/badge/AJAX-1c1c1e?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=ff3b30" />
-  <img src="https://img.shields.io/badge/CSS3-1c1c1e?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-ff3b30?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-ffffff?style=for-the-badge&logo=jquery&logoColor=ff3b30" />
   <img src="https://img.shields.io/badge/Blade-1c1c1e?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-ffffff?style=for-the-badge&logo=wordpress&logoColor=ff3b30" />
+  <img src="https://img.shields.io/badge/jQuery-ffffff?style=for-the-badge&logo=jquery&logoColor=ff3b30" />
+  <img src="https://img.shields.io/badge/HTML5-ff3b30?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1c1c1e?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-ffffff?style=for-the-badge&logo=bootstrap&logoColor=ff3b30" />
+  <img src="https://img.shields.io/badge/WordPress-1c1c1e?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%2FUX-ff3b30?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/SEO-ffffff?style=for-the-badge&logo=google&logoColor=ff3b30" />
 </p>
 
 ### Bases de datos
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-ff3b30?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-1c1c1e?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+### IA, datos & automatización
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-ff3b30?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-1c1c1e?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-ffffff?style=for-the-badge&logo=tensorflow&logoColor=ff3b30" />
+  <img src="https://img.shields.io/badge/APIs%20de%20IA-ff3b30?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-1c1c1e?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-ffffff?style=for-the-badge&logo=openai&logoColor=ff3b30" />
+  <img src="https://img.shields.io/badge/Automatización%20con%20IA-ff3b30?style=for-the-badge&logo=zapier&logoColor=white" />
+  <img src="https://img.shields.io/badge/Análisis%20de%20datos-1c1c1e?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-ffffff?style=for-the-badge&logo=icloud&logoColor=ff3b30" />
 </p>
 
 ### Herramientas & Workflow
@@ -95,10 +111,14 @@ También participo en tareas backend —**diseño de APIs, optimización y arqui
   <img src="https://img.shields.io/badge/Figma-1c1c1e?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-ff3b30?style=for-the-badge&logo=canva&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-ffffff?style=for-the-badge&logo=visualstudiocode&logoColor=ff3b30" />
+  <img src="https://img.shields.io/badge/Eclipse-1c1c1e?style=for-the-badge&logo=eclipseide&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter%20Notebooks-ff3b30?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-ffffff?style=for-the-badge&logo=googlecolab&logoColor=ff3b30" />
+  <img src="https://img.shields.io/badge/Anaconda-1c1c1e?style=for-the-badge&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-ff3b30?style=for-the-badge&logo=kaggle&logoColor=white" />
   <img src="https://img.shields.io/badge/Trello-1c1c1e?style=for-the-badge&logo=trello&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=notion&logoColor=ff3b30" />
-  <img src="https://img.shields.io/badge/Jira-1c1c1e?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Eclipse-ff3b30?style=for-the-badge&logo=eclipseide&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-ffffff?style=for-the-badge&logo=jira&logoColor=ff3b30" />
+  <img src="https://img.shields.io/badge/Notion-1c1c1e?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
 
 ---
