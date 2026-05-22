@@ -153,7 +153,7 @@ Proyecto académico en Laravel desarrollado durante mi etapa de formación dual 
 - Inteligencia Artificial
 - Machine Learning
 - Fundamentos de Big Data
-- Python, TensorFlow, Spark y flujos orientados a cloud
+- Python y TensorFlow
 
 ---
 
