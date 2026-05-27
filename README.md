@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/readme/profile-strip.svg" alt="Desarrollador full stack centrado en Laravel, frontend moderno, UI funcional, APIs e IA + BigData" />
+  <img src="readme/profile-strip.svg" alt="Desarrollador full stack centrado en Laravel, frontend moderno, UI funcional, APIs e IA + BigData" />
 </p>
 
 <p align="center">
@@ -61,7 +61,7 @@ También participo en backend, diseño de APIs, optimización y evolución de un
 ## Stack técnico
 
 <p align="center">
-  <img src="assets/readme/stack.svg" alt="Stack técnico: Backend & Core, Frontend & UI, Bases de datos, IA + BigData y Workflow" />
+  <img src="readme/stack.svg" alt="Stack técnico: Backend & Core, Frontend & UI, Bases de datos, IA + BigData y Workflow" />
 </p>
 
 
@@ -72,7 +72,7 @@ También participo en backend, diseño de APIs, optimización y evolución de un
 ## Proyectos destacados
 
 <p align="center">
-  <img src="assets/readme/projects-showcase.svg" alt="Proyectos destacados: FC Klassic Cars, Rivo, Task Manager, Democratic City, CarDealership e IA + BigData" />
+  <img src="readme/projects-showcase.svg" alt="Proyectos destacados: FC Klassic Cars, Rivo, Task Manager, Democratic City, CarDealership e IA + BigData" />
 </p>
 
 ### FC Klassic Cars
@@ -152,13 +152,13 @@ Especialización en inteligencia artificial, machine learning, análisis de dato
 ## Trayectoria
 
 <p align="center">
-  <img src="assets/readme/timeline.svg" alt="Trayectoria profesional y formativa" />
+  <img src="readme/timeline.svg" alt="Trayectoria profesional y formativa" />
 </p>
 
 ## Idiomas y contacto
 
 <p align="center">
-  <img src="assets/readme/contact-panel.svg" alt="Idiomas, disponibilidad y contacto de Ángel Guiberteau" />
+  <img src="readme/contact-panel.svg" alt="Idiomas, disponibilidad y contacto de Ángel Guiberteau" />
 </p>
 
 ### Lectura rápida
