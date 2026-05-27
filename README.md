@@ -1,15 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,35:fff4f2,70:ff6b61,100:ff3b30&height=190&section=header&text=%C3%81ngel%20Guiberteau&fontSize=40&fontColor=1c1c1e&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20Laravel%20%E2%80%A2%20Frontend%20%E2%80%A2%20UI%2FUX&descAlignY=62&descSize=16" alt="Ángel Guiberteau banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161618,24:242426,58:ff6b61,100:ff3b30&height=230&section=header&text=%C3%81ngel%20Guiberteau&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full%20Stack%20Developer%20%E2%80%A2%20Frontend%20%E2%80%A2%20Backend%20%E2%80%A2%20UI%2FUX%20%E2%80%A2%20IA%20%2B%20BigData&descAlignY=57&descSize=16" alt="Ángel Guiberteau | Full Stack Developer" />
 </p>
 
-<h1 align="center">¡Hola! Soy Ángel Guiberteau 👋</h1>
+<h1 align="center">Construyo Productos<br>Donde la Lógica se encuentra con el Código.</h1>
 
 <p align="center">
-  <strong>Desarrollador Full Stack especializado en Laravel, desarrollo frontend, UI funcional y productos web escalables.</strong>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2600&pause=700&color=FF3B30&center=true&vCenter=true&width=820&lines=Desarrollador+Full+Stack+%C2%B7+Backend+%26+Frontend;Frontend+%C2%B7+Backend+%C2%B7+UI%2FUX+%C2%B7+IA+%2B+BigData;Construir.+Aprender.+Optimizar.+Repetir." alt="Desarrollador Full Stack · Frontend · Backend · UI/UX · IA + BigData" />
+  </a>
 </p>
 
 <p align="center">
-  Construyo soluciones digitales prácticas donde la lógica, las necesidades de negocio y la experiencia de usuario trabajan juntas.
+  <img src="assets/readme/profile-strip.svg" alt="Desarrollador full stack centrado en Laravel, frontend moderno, UI funcional, APIs e IA + BigData" />
 </p>
 
 <p align="center">
@@ -18,167 +20,165 @@
   <a href="mailto:aguiberteaufranco@gmail.com">Email</a>
   ·
   <a href="https://www.linkedin.com/in/%C3%A1ngel-guiberteau-franco">LinkedIn</a>
+  ·
+  <a href="https://github.com/Angel-Guiberteau">GitHub</a>
 </p>
 
----
-
-## 🔶 Sobre mí
-
-Soy **Desarrollador de Aplicaciones Web** y actualmente **Responsable del área de frontend en THB Hotels**. Mi enfoque se centra en crear soluciones digitales **claras, eficientes y orientadas a la experiencia de usuario**, combinando **diseño, lógica y arquitectura** para construir productos sólidos y útiles en contextos reales.
-
-Trabajo como **desarrollador full stack especializado en Laravel**, integrando **UI/UX**, desarrollo frontend y contribuciones en backend. Me interesa que cada proyecto sea **escalable, mantenible y bien estructurado**, con una base técnica sólida y una ejecución alineada con necesidades reales de negocio.
-
-Además de la parte técnica, valoro especialmente la **consistencia visual**, la **calidad de interfaz**, la **mantenibilidad del código** y la capacidad de convertir requisitos complejos en soluciones claras y funcionales.
-
----
-
-## 🚀 En qué estoy enfocado
-
-- Desarrollar aplicaciones web con **Laravel, PHP, JavaScript y MySQL**
-- Crear interfaces **claras, intuitivas y funcionales**, cuidando tanto la experiencia visual como la usabilidad
-- Aportar valor en proyectos donde se combinen **frontend, backend y visión de producto**
-- Construir soluciones **escalables, mantenibles y orientadas a necesidades reales de negocio**
-- Mejorar arquitectura, calidad técnica y consistencia entre productos digitales
-- Seguir creciendo en áreas como **IA, machine learning y sistemas orientados a datos**
-
----
-
-## 🏨 Mi trabajo en THB Hotels
-
-Desarrollador **Full Stack** especializado en **Laravel** y **Responsable del área de frontend** en **THB Hotels**. Trabajo tanto en **aplicaciones internas** como en **webs públicas**, combinando desarrollo frontend con diseño **UI/UX**.
-
-También trabajo en el desarrollo y evolución de un **paquete interno corporativo** que unifica la experiencia visual y técnica de los proyectos, incorporando componentes propios y patrones comunes.
-
-También participo en tareas backend —**diseño de APIs, optimización y arquitectura**— realizando implementaciones clave dentro de la estrategia tecnológica de la empresa.
-
----
-
-## 🧩 Core stack
-
-### Backend & Core
 <p align="center">
-  <img src="https://img.shields.io/badge/Laravel-ff3b30?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-1c1c1e?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Composer-ffffff?style=for-the-badge&logo=composer&logoColor=ff3b30" />
-  <img src="https://img.shields.io/badge/Eloquent-ff3b30?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-1c1c1e?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ffffff?style=for-the-badge&logo=openjdk&logoColor=ff3b30" />
-  <img src="https://img.shields.io/badge/C-1c1c1e?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff3b30,50:ff6b61,100:242426&height=3&section=header" alt="" />
 </p>
 
-### Frontend & UI
+## Perfil profesional
+
+Soy **Desarrollador de Aplicaciones Web** y actualmente **Responsable de Frontend** en **THB Hotels**. Mi enfoque se basa en crear soluciones digitales claras, eficientes y orientadas a la experiencia del usuario, combinando diseño, lógica, arquitectura frontend y arquitectura de producto.
+
+Trabajo como **desarrollador full stack especializado en Laravel y frontend**, integrando diseño **UI/UX**, desarrollo frontend, componentes reutilizables y contribuciones en backend. También estoy ampliando mi perfil hacia **IA aplicada**, **APIs de IA**, BigData y análisis de datos para construir soluciones más inteligentes, escalables y útiles.
+
+### Frontend, Backend e IA + BigData
+
+- **Frontend & UI:** trabajo con JavaScript, TypeScript, React, Inertia, Astro, Blade, Bootstrap, HTML5, CSS3, WordPress, UI/UX y SEO para crear interfaces claras, consistentes y fáciles de mantener.
+- **Backend & Core:** desarrollo aplicaciones full stack con Laravel, PHP, Composer, Eloquent, APIs REST, Blade, MySQL e integraciones, cuidando la estructura del proyecto y la lógica de negocio.
+- **IA + BigData:** aplico Python, Machine Learning, TensorFlow, APIs de IA, LLMs, Prompt Engineering, Jupyter, Google Colab y Kaggle para analizar datos, experimentar con modelos y construir soluciones más inteligentes.
+
+## Experiencia destacada
+
+### THB Hotels
+
+**Responsable de Frontend & Full Stack Developer**
+
+Desarrollo aplicaciones internas, webs públicas y soluciones corporativas con foco en **Laravel**, **frontend**, **UI/UX**, arquitectura frontend y experiencia de usuario.
+
+También participo en backend, diseño de APIs, optimización y evolución de un paquete interno corporativo que unifica componentes, patrones visuales y criterios técnicos.
+
+**Tipo:** corporativo privado  
+**Producto:** intranet, herramientas internas, webs públicas y componentes compartidos  
+**Rol:** arquitectura frontend, full stack, UI/UX, APIs y Backend
+
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-ff3b30?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-1c1c1e?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=ff3b30" />
-  <img src="https://img.shields.io/badge/Inertia-ff3b30?style=for-the-badge&logo=inertia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Astro-ffffff?style=for-the-badge&logo=astro&logoColor=ff3b30" />
-  <img src="https://img.shields.io/badge/AJAX-1c1c1e?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blade-1c1c1e?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-ffffff?style=for-the-badge&logo=jquery&logoColor=ff3b30" />
-  <img src="https://img.shields.io/badge/HTML5-ff3b30?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1c1c1e?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-ffffff?style=for-the-badge&logo=bootstrap&logoColor=ff3b30" />
-  <img src="https://img.shields.io/badge/WordPress-1c1c1e?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI%2FUX-ff3b30?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/SEO-ffffff?style=for-the-badge&logo=google&logoColor=ff3b30" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:242426,50:ff3b30,100:ff6b61&height=3&section=header" alt="" />
 </p>
 
-### Bases de datos
+## Stack técnico
+
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-ff3b30?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-1c1c1e?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="assets/readme/stack.svg" alt="Stack técnico: Backend & Core, Frontend & UI, Bases de datos, IA + BigData y Workflow" />
 </p>
 
-### IA, datos & automatización
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-ff3b30?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-1c1c1e?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-ffffff?style=for-the-badge&logo=tensorflow&logoColor=ff3b30" />
-  <img src="https://img.shields.io/badge/APIs%20de%20IA-ff3b30?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-1c1c1e?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-ffffff?style=for-the-badge&logo=openai&logoColor=ff3b30" />
-  <img src="https://img.shields.io/badge/Automatización%20con%20IA-ff3b30?style=for-the-badge&logo=zapier&logoColor=white" />
-  <img src="https://img.shields.io/badge/Análisis%20de%20datos-1c1c1e?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud-ffffff?style=for-the-badge&logo=icloud&logoColor=ff3b30" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3200&pause=900&color=A1A1A6&center=true&vCenter=true&width=760&lines=Stack+orientado+a+producto%2C+mantenibilidad+y+experiencia+de+usuario;Frontend%2C+backend%2C+datos+e+IA+trabajando+como+un+mismo+sistema" alt="Stack orientado a producto" />
 </p>
 
-### Herramientas & Workflow
+## Proyectos destacados
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-ff3b30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-1c1c1e?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-ffffff?style=for-the-badge&logo=postman&logoColor=ff3b30" />
-  <img src="https://img.shields.io/badge/Figma-1c1c1e?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-ff3b30?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-ffffff?style=for-the-badge&logo=visualstudiocode&logoColor=ff3b30" />
-  <img src="https://img.shields.io/badge/Eclipse-1c1c1e?style=for-the-badge&logo=eclipseide&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter%20Notebooks-ff3b30?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Colab-ffffff?style=for-the-badge&logo=googlecolab&logoColor=ff3b30" />
-  <img src="https://img.shields.io/badge/Anaconda-1c1c1e?style=for-the-badge&logo=anaconda&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kaggle-ff3b30?style=for-the-badge&logo=kaggle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trello-1c1c1e?style=for-the-badge&logo=trello&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-ffffff?style=for-the-badge&logo=jira&logoColor=ff3b30" />
-  <img src="https://img.shields.io/badge/Notion-1c1c1e?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="assets/readme/projects-showcase.svg" alt="Proyectos destacados: FC Klassic Cars, Rivo, Task Manager, Democratic City, CarDealership e IA + BigData" />
 </p>
+
+### FC Klassic Cars
+
+<kbd>Cliente real</kbd> <kbd>Freelance</kbd> <kbd>Diseño</kbd> <kbd>SEO</kbd> <kbd>Desarrollo</kbd>
+
+Marketplace para vehículos clásicos y de lujo con experiencia visual premium, enfoque comercial y estructura orientada a presencia de marca.
+
+**Foco visual:** experiencia premium, frontend comercial, UI/UX, SEO y conversión.  
+**Stack principal:** <kbd>Laravel</kbd> <kbd>Bootstrap</kbd> <kbd>MySQL</kbd> <kbd>UI/UX</kbd> <kbd>SEO</kbd>  
+**Enlace:** [fcklassic.com](https://fcklassic.com/)
 
 ---
 
-## 📌 Proyectos destacados
+### Rivo
 
-### 🔸 FC Klassic Cars
-Plataforma web del sector automoción enfocada en presentación premium de vehículos, visibilidad de negocio y experiencia orientada a conversión.
+<kbd>Proyecto Fin de Grado</kbd> <kbd>Full Stack</kbd> <kbd>Dashboard</kbd>
 
-**Stack:** Laravel · Bootstrap · MySQL · UI/UX · SEO  
-🔗 **Web:** <a href="https://fcklassic.com/">fcklassic.com</a>
+Aplicación web de finanzas personales centrada en dashboard, autenticación, lógica de negocio y experiencia de usuario.
 
-### 🔸 Rivo
-Aplicación web de finanzas personales desarrollada como proyecto final, con especial foco en usabilidad del dashboard, lógica de negocio y experiencia de usuario.
-
-**Stack:** Laravel · Bootstrap · JavaScript · API · UI/UX  
-🔗 **Repositorio:** <a href="https://github.com/Angel-Guiberteau/Rivo">Rivo</a>
-
-### 🔸 TaskManager
-Aplicación web de gestión de tareas pensada para organizar flujos de trabajo de forma clara y funcional, con autenticación de usuarios, categorías y estados.
-
-**Stack:** Laravel · Bootstrap · Blade · Eloquent · UI/UX  
-🔗 **Repositorio:** <a href="https://github.com/Angel-Guiberteau/TaskManager">TaskManager</a>
-
-### 🔸 Democratic City
-Proyecto multijugador en navegador donde las decisiones de los jugadores impactan en indicadores clave de la ciudad como salud, economía, educación y seguridad.
-
-**Stack:** HTML · CSS · JavaScript · Fetch API · JSON  
-🔗 **Repositorio:** <a href="https://github.com/Angel-Guiberteau/DemocraticCity">Democratic City</a>
-
-### 🔸 CarDealership
-Proyecto académico en Laravel desarrollado durante mi etapa de formación dual para reforzar arquitectura MVC y simular un entorno real de concesionario.
-
-**Stack:** Laravel · Bootstrap · Blade · Eloquent · UI/UX  
-🔗 **Repositorio:** <a href="https://github.com/Angel-Guiberteau/CarDealership">CarDealership</a>
+**Foco visual:** dashboard claro, frontend funcional, autenticación y lógica de negocio.  
+**Stack principal:** <kbd>Laravel</kbd> <kbd>Blade</kbd> <kbd>Bootstrap</kbd> <kbd>JavaScript</kbd> <kbd>API REST</kbd>  
+**Enlace:** [Rivo](https://github.com/Angel-Guiberteau/Rivo)
 
 ---
 
-## 💼 Fortalezas profesionales
+### Task Manager
 
-- Perfil capaz de conectar **lógica, diseño y arquitectura** para construir productos digitales sólidos
-- Desarrollo orientado a **soluciones reales**, con foco en utilidad, calidad técnica y experiencia de usuario
-- Capacidad para trabajar con **Laravel, frontend y UI/UX** dentro de un mismo flujo de producto
-- Atención al detalle en **mantenibilidad, escalabilidad, consistencia visual y estructura de código**
-- Buen encaje en **equipos colaborativos**, aportando tanto en implementación como en mejora continua
-- Interés constante por seguir creciendo en áreas como **arquitectura, optimización, IA y sistemas orientados a datos**
+<kbd>Full Stack</kbd> <kbd>Auth</kbd> <kbd>CRUD</kbd>
 
----
+Aplicación de gestión de tareas con autenticación, categorías, estados y una interfaz directa para organizar flujos de trabajo.
 
-## 📚 Actualmente aprendiendo
-
-- Inteligencia Artificial
-- Machine Learning
-- Fundamentos de Big Data
-- Python y TensorFlow
+**Foco visual:** interfaz directa, estados, categorías y experiencia de gestión.  
+**Stack principal:** <kbd>Laravel</kbd> <kbd>Blade</kbd> <kbd>Eloquent</kbd> <kbd>Bootstrap</kbd> <kbd>Auth</kbd>  
+**Enlace:** [TaskManager](https://github.com/Angel-Guiberteau/TaskManager)
 
 ---
 
-## 📫 Contacto
+### Democratic City
 
-- **Portfolio:** <a href="https://angel-guiberteau.github.io/Portfolio-AngelGF/">angel-guiberteau.github.io/Portfolio-AngelGF</a>
-- **Email:** <a href="mailto:aguiberteaufranco@gmail.com">aguiberteaufranco@gmail.com</a>
-- **Ubicación:** Badajoz, España
+<kbd>Juego web</kbd> <kbd>Frontend</kbd> <kbd>Datos JSON</kbd>
+
+Proyecto multijugador en navegador basado en decisiones colectivas que afectan a indicadores de ciudad mediante JavaScript y JSON.
+
+**Foco visual:** lógica frontend, interacción multijugador, datos JSON y experiencia en navegador.  
+**Stack principal:** <kbd>HTML5</kbd> <kbd>CSS3</kbd> <kbd>JavaScript</kbd> <kbd>Fetch API</kbd> <kbd>JSON</kbd>  
+**Enlace:** [Democratic City](https://github.com/Angel-Guiberteau/DemocraticCity)
+
+---
+
+### CarDealership
+
+<kbd>Formación dual</kbd> <kbd>Laravel MVC</kbd> <kbd>CRUD</kbd>
+
+Proyecto académico para simular un concesionario y reforzar arquitectura MVC, Eloquent, Blade y flujos CRUD completos.
+
+**Foco visual:** arquitectura MVC, frontend con Blade, flujos CRUD y gestión de datos.  
+**Stack principal:** <kbd>Laravel</kbd> <kbd>MVC</kbd> <kbd>Blade</kbd> <kbd>Eloquent</kbd> <kbd>Bootstrap</kbd>  
+**Enlace:** [CarDealership](https://github.com/Angel-Guiberteau/CarDealership)
+
+---
+
+### IA + BigData
+
+<kbd>Formación superior</kbd> <kbd>En curso</kbd> <kbd>Datos</kbd>
+
+Especialización en inteligencia artificial, machine learning, análisis de datos, IA APIs y experimentación con Python y TensorFlow.
+
+**Foco visual:** análisis de datos, modelos, LLMs, notebooks y sistemas orientados a datos.  
+**Stack principal:** <kbd>Python</kbd> <kbd>TensorFlow</kbd> <kbd>IA APIs</kbd> <kbd>Jupyter</kbd> <kbd>Colab</kbd> <kbd>Kaggle</kbd>  
+**Enlace:** [Sobre mí](https://angel-guiberteau.github.io/Portfolio-AngelGF/about.html)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff6b61,50:ff3b30,100:242426&height=3&section=header" alt="" />
+</p>
+
+## Trayectoria
+
+<p align="center">
+  <img src="assets/readme/timeline.svg" alt="Trayectoria profesional y formativa" />
+</p>
+
+## Idiomas y contacto
+
+<p align="center">
+  <img src="assets/readme/contact-panel.svg" alt="Idiomas, disponibilidad y contacto de Ángel Guiberteau" />
+</p>
+
+### Lectura rápida
+
+**Idiomas**  
+<kbd>Español nativo</kbd> <kbd>Inglés fluido</kbd> <kbd>Francés básico</kbd>
+
+**Disponibilidad**  
+Abierto a oportunidades donde pueda aportar en **frontend**, **Backend**, **UI/UX**, producto digital e integración de IA aplicada.
+
+**Ubicación**  
+<kbd>Badajoz, España</kbd> <kbd>Remoto / híbrido</kbd>
+
+### Enlaces
+
+**Portfolio** · [Portfolio-AngelGF](https://angel-guiberteau.github.io/Portfolio-AngelGF/)  
+**Email** · [aguiberteaufranco@gmail.com](mailto:aguiberteaufranco@gmail.com)  
+**LinkedIn** · [Ángel Guiberteau Franco](https://www.linkedin.com/in/%C3%A1ngel-guiberteau-franco)  
+**GitHub** · [Angel-Guiberteau](https://github.com/Angel-Guiberteau)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3b30,34:ff6b61,68:242426,100:161618&height=120&section=footer" alt="" />
+</p>
